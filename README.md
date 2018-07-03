@@ -61,7 +61,7 @@ Intro to Machine Learning Course from Udacity
 
 *Accuracy*: 0.991
 
-## Lesson 2: Decision Trees
+## Lesson 4: Decision Trees
 
 ### Supervised Classification : Email Author Classification
 
@@ -70,3 +70,13 @@ Intro to Machine Learning Course from Udacity
 *Prediction time*: 0.078 s
 
 *Accuracy*: 0.979
+
+## Lesson 5: Choose Your Own Algorithm
+
+### Supervised Classification : Email Author Classification (Adaboost)
+
+*Training time*: 0.266 s
+
+*Prediction time*: 0 s
+
+*Accuracy*: 0.924
