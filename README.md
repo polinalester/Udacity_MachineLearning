@@ -6,11 +6,11 @@ Intro to Machine Learning Course from Udacity
 
 ### Supervised Classification : Email Author Classification
 
-Training time: 3.391 s
+*Training time*: 3.391 s
 
-Prediction time: 0.568 s
+*Prediction time*: 0.568 s
 
-Accuracy: 0.973
+*Accuracy*: 0.973
 
 
 ## Lesson 3: SVM
@@ -60,3 +60,13 @@ Accuracy: 0.973
 *Prediction time*: 26.076 s
 
 *Accuracy*: 0.991
+
+## Lesson 2: Decision Trees
+
+### Supervised Classification : Email Author Classification
+
+*Training time*: 86.172 s
+
+*Prediction time*: 0.078 s
+
+*Accuracy*: 0.979
