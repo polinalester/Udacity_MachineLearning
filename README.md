@@ -80,3 +80,15 @@ Intro to Machine Learning Course from Udacity
 *Prediction time*: 0 s
 
 *Accuracy*: 0.924
+
+## Lesson 7: Regressions
+
+### Supervised Regression : Bonus Prediction
+
+**Features : "salary"**
+
+*Score on the test data*: -1.485
+
+**Features : "long_term_incentive"**
+
+*Score on the test data*: -0.593
