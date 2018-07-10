@@ -92,3 +92,13 @@ Intro to Machine Learning Course from Udacity
 **Features : "long_term_incentive"**
 
 *Score on the test data*: -0.593
+
+## Lesson 8: Outliers
+
+*Scope with outliers:* 5.078
+
+*Score with outliers:* 0.878
+
+*Scope without outliers:* 6.369
+
+*Score without outliers:* 0.983
